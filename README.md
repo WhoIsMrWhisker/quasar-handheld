@@ -1,4 +1,5 @@
-<img width="454" height="317" alt="q_logo" src="https://github.com/user-attachments/assets/3220351d-03eb-4fb6-9011-9bbc68cdeb66" />
+<img width="321" height="223" alt="q_logo" src="https://github.com/user-attachments/assets/89582454-3701-473e-914d-ad792c91b592" />
+
 
 
 # Quasar Handheld System
