@@ -26,7 +26,7 @@ To keep fabrication accessible and highly cost-effective, the entire system is r
 
 ## 💫 Credits
 Thanks to JLCPCB, KiCad i can make this project come true⭐.
-And thanks to my teacher that teached the basis of electronics: [Maxym Kaplun](github.com/KaplunMaxym).
+And thanks to my teacher that teached the basis of electronics: [Maxym Kaplun](https://github.com/KaplunMaxym).
 
 ## ⚖️ Licensing
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license. 
