@@ -30,6 +30,10 @@ To keep fabrication accessible and highly cost-effective, the entire system is r
 Thanks to JLCPCB, KiCad i can make this project come true⭐.
 And thanks to my teacher that teached the basis of electronics: [Maxym Kaplun](https://github.com/KaplunMaxym).
 
+## 📈 Working on
+* GPS Module (Quectel_L80-R)
+* Satellite Module
+
 ## ⚖️ Licensing
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license. 
 
