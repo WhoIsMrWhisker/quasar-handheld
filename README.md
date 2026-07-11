@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="q_logo (1)" src="https://github.com/user-attachments/assets/1ff5264f-d158-429d-b545-3bcd45a28da0" />
+<img width="256" height="256" alt="q_logo (1)" src="https://github.com/user-attachments/assets/1ff5264f-d158-429d-b545-3bcd45a28da0"/>
 
 # Quasar Handheld
 ### ⚠️STATUS WARNING: The project is still under development and it's not made yet, expect firmware after full hardware development
