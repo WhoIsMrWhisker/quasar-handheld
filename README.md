@@ -1,7 +1,7 @@
 <img width="212" height="133" alt="q_logo (1)" src="https://github.com/user-attachments/assets/ecb84f02-4001-4c3c-8e0b-73e249a3dcd5" />
 
 # Quasar Handheld
-### ⚠️STATUS WARNING: The project is still under development and it's not made yet, expect firmware after full hardware development
+### ⚠️STATUS WARNING: The project is still under development and it's not made yet, expect software after full hardware development
 An advanced, custom-engineered handheld platform utilizing a dual-MCU architecture. The project breaks away from standard single-processor limitations by combining the high-speed wireless capabilities of the ESP32 with the robust, real-time hardware co-processing of an STM32. 
 To keep fabrication accessible and highly cost-effective, the entire system is routed on a complex **2-layer PCB layout**, navigating high-density routing and digital signals without upgrading to a 4-layer stack.
 
