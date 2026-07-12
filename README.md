@@ -21,6 +21,8 @@ To keep fabrication accessible and highly cost-effective, the entire system is r
 * **Haptics and Microphone:** ERM Haptic engine with flyback diode for protection, and MAX9814 Microphone amplifier
 * **Display:** TFT SPI ST7789 Colorful Display
 * **Gyroscope:** MPU-6050 Chip
+* **GPS Navigation:** Quectel_L80-R GPS module
+* **Software Defined Radio:** Si4735-D60-GU
 * **Extension ports:** Two SPI ports, One I2C and one USART port **STM32 ONLY**
 * **USB Interface:** Uses two receptacle 16 pin USB, one for ESP32 + Charging, second is for STM32 ⚠️**DATA ONLY**
 
@@ -29,8 +31,7 @@ Thanks to JLCPCB, KiCad i can make this project come true⭐.
 And thanks to my teacher that teached the basis of electronics: [Maxym Kaplun](https://github.com/KaplunMaxym).
 
 ## 📈 Working on
-* GPS Module (Quectel_L80-R)
-* Satellite Module
+* Transfering NRF Breakout module on pcb
 
 ## ⚖️ Licensing
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license. 
