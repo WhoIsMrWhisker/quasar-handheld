@@ -25,13 +25,14 @@ To keep fabrication accessible and highly cost-effective, the entire system is r
 * **Software Defined Radio:** Si4735-D60-GU
 * **Extension ports:** Two SPI ports, One I2C and one USART port **STM32 ONLY**
 * **USB Interface:** Uses two receptacle 16 pin USB, one for ESP32 + Charging, second is for STM32 ⚠️**DATA ONLY**
+* **Radio things:** Ra-01, NRF24L01, SDR Interface
 
 ## 💫 Credits
 Thanks to JLCPCB, KiCad i can make this project come true⭐.
 And thanks to my teacher that teached the basis of electronics: [Maxym Kaplun](https://github.com/KaplunMaxym).
 
 ## 📈 Working on
-* Transfering NRF Breakout module on pcb
+* Polishing up the board
 
 ## ⚖️ Licensing
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license. 
