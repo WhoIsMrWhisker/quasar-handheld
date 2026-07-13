@@ -22,10 +22,9 @@ To keep fabrication accessible and highly cost-effective, the entire system is r
 * **Display:** TFT SPI ST7789 Colorful Display
 * **Gyroscope:** MPU-6050 Chip
 * **GPS Navigation:** Quectel_L80-R GPS module
-* **Software Defined Radio:** Si4735-D60-GU
 * **Extension ports:** Two SPI ports, One I2C and one USART port **STM32 ONLY**
 * **USB Interface:** Uses two receptacle 16 pin USB, one for ESP32 + Charging, second is for STM32 ⚠️**DATA ONLY**
-* **Radio things:** Ra-01, NRF24L01, SDR Interface
+* **Radio things:** Ra-01, NRF24L01, Si4735-D60-GU
 
 ## 💫 Credits
 Thanks to JLCPCB, KiCad i can make this project come true⭐.
