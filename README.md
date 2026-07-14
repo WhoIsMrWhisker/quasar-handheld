@@ -1,7 +1,7 @@
 <img width="212" height="133" alt="q_logo (1)" src="https://github.com/user-attachments/assets/ecb84f02-4001-4c3c-8e0b-73e249a3dcd5" />
 
 # Quasar Handheld
-### ⚠️STATUS WARNING: The project is still under development and it's not made yet, expect software after full hardware development
+### ⚠️STATUS WARNING: The project is still under development and it's not made yet, expect software after full hardware development, and the project files, gerbers are outdated! Expect new files tommorow
 An advanced, custom-engineered handheld platform utilizing a dual-MCU architecture. The project breaks away from standard single-processor limitations by combining the high-speed wireless capabilities of the ESP32 with the robust, real-time hardware co-processing of an STM32. 
 To keep fabrication accessible and highly cost-effective, the entire system is routed on a complex **2-layer PCB layout**, navigating high-density routing and digital signals without upgrading to a 4-layer stack.
 
@@ -21,10 +21,11 @@ To keep fabrication accessible and highly cost-effective, the entire system is r
 * **Haptics and Microphone:** ERM Haptic engine with flyback diode for protection, and MAX9814 Microphone amplifier
 * **Display:** TFT SPI ST7789 Colorful Display
 * **Gyroscope:** MPU-6050 Chip
-* **GPS Navigation:** Quectel_L80-R GPS module
+* **GPS Navigation:** Ai-Thinker GP-02 GPS module
 * **Extension ports:** Two SPI ports, One I2C and one USART port **STM32 ONLY**
 * **USB Interface:** Uses two receptacle 16 pin USB, one for ESP32 + Charging, second is for STM32 ⚠️**DATA ONLY**
 * **Radio things:** Ra-01, NRF24L01, Si4735-D60-GU
+* **RFID/NFC:** PN532 with balun transformer (50 ohm to coaxial)
 
 ## 💫 Credits
 Thanks to JLCPCB, KiCad i can make this project come true⭐.
