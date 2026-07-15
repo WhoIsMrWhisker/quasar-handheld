@@ -4,7 +4,7 @@
 <h1 align="center">Quasar Handheld🌠</h1>
 
 ### ⚠️Status information 
-The project is still under development and it's not made yet, expect software after full hardware development, and the project files, gerbers are outdated! Expect new files tommorow
+The project is still under development and it's not made yet, expect software after full hardware development.
 
 ## ❓ About the device
 An advanced, custom-engineered handheld platform utilizing a dual-MCU architecture. The project breaks away from standard single-processor limitations by combining the high-speed wireless capabilities of the ESP32 with the robust, real-time hardware co-processing of an STM32. 
