@@ -1,0 +1,4 @@
+(version 1)
+(rule "MAX9814_Tight_Clearance"
+    (constraint clearance (min 0.11mm))
+    (condition "A.insideArea('U12')"))
