@@ -40,7 +40,7 @@ And thanks to my teacher that teached the basis of electronics: [Maxym Kaplun](h
 * Polishing up the board
 
 ## ⚖️ Licensing
-This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC-SA 4.0)** license. 
+This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license. 
 
 You are welcome to download, study, and modify these design files for personal or educational use. However, **commercial use, mass production, or selling the physical PCBs/assembled units is strictly prohibited** without explicit permission, and also fork this project with my license because of SA.
 </body>
