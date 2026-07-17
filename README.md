@@ -1,7 +1,7 @@
 <body>
 <img width="1152" height="256" alt="q_logo_refb" src="https://github.com/user-attachments/assets/e415bd7f-e8ac-40d8-8578-0974efcf9b2f" />
 
-<h1 align="center">Quasar Handheld🌠</h1>
+<h1 align="center">Quasar Pocket🌠</h1>
 
 ### ⚠️Status information 
 The project is still under development and it's not made yet, expect software after full hardware development.
